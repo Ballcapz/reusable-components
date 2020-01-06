@@ -1,0 +1,58 @@
+{
+    "textInput": [
+        {
+            "name": "name",
+            "id": "name",
+            "type": "text",
+            "percent_width": 50,
+            "label": "First Name",
+            "attributes": "",
+            "break": false
+        },
+        {
+            "name": "middle-initial",
+            "id": "middle-initial",
+            "type": "text",
+            "percent_width": 30,
+            "label": "M.I.",
+            "attributes": "",
+            "break": false
+        },
+        {
+            "name": "last-name",
+            "id": "last-name",
+            "type": "text",
+            "percent_width": 50,
+            "label": "Last Name",
+            "attributes": "",
+            "break": false
+        },
+        {
+            "name": "address-one",
+            "id": "address-one",
+            "type": "text",
+            "percent_width": 50,
+            "label": "Address",
+            "attributes": "",
+            "break": true
+        },
+        {
+            "name": "address-two",
+            "id": "address-two",
+            "type": "text",
+            "percent_width": 30,
+            "label": "Apt",
+            "attributes": "",
+            "break": false
+        },
+        {
+            "name": "ssn",
+            "id": "ssn",
+            "type": "password",
+            "percent_width": 50,
+            "label": "SSN",
+            "attributes": "maxlength='9'",
+            "break": true
+        }
+    ]
+}
